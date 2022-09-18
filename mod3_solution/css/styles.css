@@ -1,0 +1,38 @@
+.navbar-default {
+    border-color: black;
+    background-color: azure;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: black;
+}
+
+.navbar-collapse hr {
+    margin: 0;
+    border-color: black;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar-collapse ul {
+    background-color: white;
+}
+
+#infocard h2 {
+    text-align: center;
+}
+
+#infocard {
+    background-color: azure;
+}
+
+#infocard p {
+    margin: 16px;
+}
